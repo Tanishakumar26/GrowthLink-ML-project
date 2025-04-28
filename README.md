@@ -1,19 +1,4 @@
 # GrowthLink-ML-project
-📁 PROJECT STRUCTURE
-fraud_detection_project/
-│
-├── README.md
-├── requirements.txt
-├── data/
-│   ├── fraudTrain.csv
-│   └── fraudTest.csv
-├── src/
-│   ├── __init__.py
-│   ├── preprocessing.py
-│   ├── model.py
-│   ├── evaluation.py
-│   └── explain_misclassifications.py
-└── main.py
 
 # Fraud Detection System
 
