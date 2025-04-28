@@ -1,5 +1,4 @@
-##GrowthLink-ML-project
-##Credit Card Fraud Detection System
+CREDIT CARD FRAUD DETECTION SYSTEM
 
 ## 📋 Project Objective
 The goal is to build a machine learning model that detects fraudulent transactions based on transaction attributes like amount, merchant information, user details, and timestamps.
